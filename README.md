@@ -1,7 +1,7 @@
 # WarScript
 Javascript framework for RTS strategy game
 
-##M otivation
+## Motivation
 I set out with the thought that it would be really cool if Starcraft offered an API so I could automate my micro.  I tried to find a framework that would let me direct the battle from an API, and I didn't find anything to my liking, so I wrote my own.  I was in the throes of JavaScript for work at the time, and decided to roll with it.
 
 ## Limitations
