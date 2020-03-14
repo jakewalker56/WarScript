@@ -1,9 +1,6 @@
 # WarScript
 Javascript framework for RTS strategy game
 
-## Limitations
-Javascript doesn't really allow for any concept of security or isolation.  You can always just parse the DOM and move shit around.  Sooo, this isn't really suited for any sort of competitive environment, unless you're auditing the submitted code.
-
 ## Usage
 Clone the git repo into a local folder, then open index.html in a browser, and the game should execute with the defaul Warrior1.js and Warrior2.js strategies competing against each other (as of now, they are identical)
 
